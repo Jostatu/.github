@@ -1,5 +1,4 @@
-[![Jostatu](https://raw.githubusercontent.com/Jostatu/jostatu.github.io/main/resources/media/img/banner/jostatu-intro-low.gif)
-
+[![Jostatu](https://raw.githubusercontent.com/Jostatu/jostatu.github.io/main/resources/media/img/banner/jostatu-intro-low.gif)](http://www.jostatu.com)
 # Welcome to Jostatu's GitHub
 Welcome to Jostatu's GitHub. What does this organization has? Who are we? Don't worry, we will answer this question here! First, let's start by the logical begining, **who are we?**
 
