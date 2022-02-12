@@ -9,7 +9,7 @@ Welcome to Jostatu's GitHub. What does this organization has? Who are we? Don't 
 This organization holds basically all the code of every projects run by Jostaut. Most repos are private and most of them will stay that way, **but**, we may publish some of our software as open-source and publish source code of our games later down the line.
 
 ## Contributing
-You can contribute to any open-source project we publish here! To do so, we invite you to read [our code of conduct](./../CODE_OF_CONDUCT.md)and [how to contribute](./../CONTRIBUTING.md). Also, for each project you have templates you can use to open issue and make pull request in an easy way for everyone!
+You can contribute to any open-source project we publish here! To do so, we invite you to read [our code of conduct](https://github.com/Jostatu/.github/blob/main/CODE_OF_CONDUCT.md)and [how to contribute]([./../CONTRIBUTING.md](https://github.com/Jostatu/.github/blob/main/CONTRIBUTING.md)). Also, for each project you have templates you can use to open issue and make pull request in an easy way for everyone!
 
 
 
