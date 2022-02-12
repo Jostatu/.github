@@ -28,10 +28,10 @@
 <!--⚠️⚠️DELETE EVERYTHING DOWN BELOW BEFORE POSTING!!!⚠️⚠️-->
 >### ⚠️Notes:
 >
->_**P.S. Remember, an issue is not the place to ask questions. You can use [Repo's discussions](url/to/repo/discussion)
+>_**P.S. Remember, an issue is not the place to ask questions. You can use this repo's discussions
 for that!**_
 >
->_**Always follow the [contribution guidelines](url/tp/repo/code_of_conduct) guidelines when submitting a pull request.
+>_**Always follow the [contribution guidelines](./CODE_OF_CONDUCT.md) guidelines when submitting a pull request.
 Also, don't forget to delete these italics paragraphs before submiting your PR.**_
 >
 >**_Before you open an issue, please check if a similar issue already exists or has been closed before._**
