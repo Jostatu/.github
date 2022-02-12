@@ -5,7 +5,7 @@ See here for the details:
 
 https://www.contributor-covenant.org/version/1/4/code-of-conduct
 
-To report or discuss issues you can email clem64.combier@gmail.com or clement64.combier@gmail.com or just open a public issue on GitHub.
+To report or discuss issues you can email [contact@jostatu](mailto:contact@jostatu.com) or just open a public issue on GitHub.
 
 ---
 
